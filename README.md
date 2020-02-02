@@ -4,12 +4,12 @@ Github repository URL
 --------
 [Jenkins Pipelines on AWS github URL](https://github.com/pascalito007/static)
 
-To clone
+## To clone
 ```
 git clone https://github.com/pascalito007/static.git
 ```
 ## Overview
-This project show Jenkins pipeline to deploy a static website on S3.
+This project show Jenkins pipeline that test HTML file and upload to AWS S3.
 ## Project files
 1. `Jenkinsfile` : The Jenkins pipeline
 2. `index.html` : The file that will be tested by the pipeline and uploaded to AWS S3
